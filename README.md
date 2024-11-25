@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [POS(Point of sale system)](https://github.com/HarshSarsodiya1180/POSS-Applicaion)
 
-- 🌱 I’m currently learning **Reactjs **
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshSarsodiya1180?tab=repositories](https://github.com/HarshSarsodiya1180?tab=repositories)
 
